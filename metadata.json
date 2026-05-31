@@ -1,0 +1,6 @@
+{
+  "name": "SR12 Herbal Skincare",
+  "description": "Company profile website for SR12 Herbal Skincare featuring skincare and herbal products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
